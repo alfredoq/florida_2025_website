@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/indice">
-            Docusaurus Tutorial - 5min ⏱️
+            Indice del diario
           </Link>
         </div>
       </div>
