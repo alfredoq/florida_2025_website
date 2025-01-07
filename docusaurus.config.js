@@ -13,10 +13,15 @@ const config = {
   title: 'Viaje familiar Florida 2025',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://alfredoq.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/florida_2025_website/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'alfredoq', // Usually your GitHub org/user name.
+  projectName: 'florida_2025_website', // Usually your repo name.
 
 
   onBrokenLinks: 'throw',
@@ -98,7 +103,7 @@ const config = {
             items: [
               {
                 label: 'Diario de viaje',
-                to: '/docs/diario',
+                to: '/docs/indice',
               },
             ],
           },
