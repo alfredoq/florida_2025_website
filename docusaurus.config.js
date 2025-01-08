@@ -106,10 +106,10 @@ const config = {
                 label: 'Diario de viaje',
                 to: '/docs/indice',
               },
-              {
-                label: 'Archivos Varios',
-                to: '/docs/archivos_varios/archivos_varios',
-              },
+              // {
+              //   label: 'Archivos Varios',
+              //   to: '/docs/archivos_varios/archivos_varios',
+              // },
             ],
           },
         ],
