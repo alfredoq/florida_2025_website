@@ -1,5 +1,6 @@
 ---
-id: Datos fila virtual
+sidebar_position: 2
+title: Indicaciones para fila virtual
 ---
 
 ## Datos de la fila virtual desde Viajero Mágico
